@@ -73,10 +73,8 @@ Energy (kWh): 0.000125 kWh
 
 ## ⚙️ System Architecture
 
-ESP32 collects real-time electricity usage data →
-Data stored in Supabase →
-Displayed on Next.js dashboard →
-Python server predicts future bill based on usage patterns
+ 
+![Screenshot 2025-05-20 003538](https://github.com/user-attachments/assets/15bd098d-8716-49c3-a85b-337d808c7819)
 
 
 
@@ -95,6 +93,8 @@ Python server predicts future bill based on usage patterns
 🔧 Device settings panel
 
 ![Screenshot 2025-05-19 181709](https://github.com/user-attachments/assets/8b160fee-08d3-4628-a269-be02449328a9)
+
+![WhatsApp Image 2025-05-19 at 18 21 30 (1)](https://github.com/user-attachments/assets/72482f25-bba6-4da3-b3ca-dc38d2647abc)
 
 ---
 
