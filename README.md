@@ -90,7 +90,6 @@ Energy (kWh): 0.000125 kWh
 
 📅 Daily / Weekly / Monthly usage trends
 
-🔧 Device settings panel
 
 ![Screenshot 2025-05-19 181709](https://github.com/user-attachments/assets/8b160fee-08d3-4628-a269-be02449328a9)
 
@@ -131,6 +130,13 @@ python app.py   # Starts Python Flask server for bill prediction
 # Flash ESP32 with Arduino or PlatformIO
 # Ensure correct sensor connections and WiFi/Supabase credentials
 ```
+## 📚 References & Resources
+
+- [Supabase Documentation](https://supabase.com/docs)
+- [Next.js Documentation](https://nextjs.org/docs)
+- [ESP32 Getting Started](https://randomnerdtutorials.com/getting-started-with-esp32/)
+- [Pandas for AI Models](https://pandas.pydata.org/docs/)
+- 
 
 ---
 
@@ -140,4 +146,5 @@ This project is licensed under the **MIT License**.
 Feel free to use, modify, and distribute with attribution.
 
 ---
+
 
