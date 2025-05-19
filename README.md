@@ -85,12 +85,16 @@ Python server predicts future bill based on usage patterns
 ## 📸 Screenshots / Demo
 
 📊 Dashboard
+
 📈 Real-time graphs
+
 ⚡ Predicted bill info
+
 📅 Daily / Weekly / Monthly usage trends
+
 🔧 Device settings panel
 
-*Add your screenshots here*
+![Screenshot 2025-05-19 181709](https://github.com/user-attachments/assets/8b160fee-08d3-4628-a269-be02449328a9)
 
 ---
 
@@ -116,7 +120,6 @@ git clone https://github.com/yourusername/smart-electricity-meter.git
 cd smart-electricity-meter
 
 # Frontend Setup
-cd dashboard
 npm install
 npm run dev   # Starts the Next.js frontend
 
