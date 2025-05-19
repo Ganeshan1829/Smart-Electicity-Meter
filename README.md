@@ -21,7 +21,6 @@ This system is a **Smart Electricity Monitoring and Billing Solution**. It track
 
 ✅ IoT Integration with ESP32
 
-✅ Historical usage analytics
 
 ---
 
