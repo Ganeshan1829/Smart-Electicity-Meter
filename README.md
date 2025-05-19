@@ -115,7 +115,7 @@ Energy (kWh): 0.000125 kWh
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/smart-electricity-meter.git
+git clone https://github.com/Ganeshan1829/Smart-Electicity-Meter.git
 cd smart-electricity-meter
 
 # Frontend Setup
@@ -136,7 +136,8 @@ python app.py   # Starts Python Flask server for bill prediction
 - [Next.js Documentation](https://nextjs.org/docs)
 - [ESP32 Getting Started](https://randomnerdtutorials.com/getting-started-with-esp32/)
 - [Pandas for AI Models](https://pandas.pydata.org/docs/)
-- 
+- [Voltage sensor ZMPT101B ](https://diyprojectslabs.com/interfacing-zmpt101b-voltage-sensor-with-esp32/)
+- [Current sensor SCT-013-000](https://forum.arduino.cc/t/current-sensor-sct-013-000/462305)
 
 ---
 
